@@ -1,0 +1,20 @@
+body{
+	width: 950px;
+background-color: #ffffff;
+}
+
+
+ul li{
+	list-style: none;
+	float: left;
+	margin: 5px;
+}
+
+
+ul li a:hover{
+	background-color: red;
+}
+
+section article{
+	padding-top: 30px;
+}
