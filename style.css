@@ -1,6 +1,6 @@
 body{
 	width: 950px;
-background-color: #ffffff;
+background-color: #4aef13;
 }
 
 
@@ -17,4 +17,9 @@ ul li a:hover{
 
 section article{
 	padding-top: 30px;
+}
+
+small{
+
+	font-style: italic;
 }
